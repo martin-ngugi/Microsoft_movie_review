@@ -28,7 +28,7 @@ The for datasets we'll be working with here are 'bom.movie_gross.csv', 'tmdb.mov
 
 4. The 'tmdb.movies.csv' dataset shows the original languages of different movies and their percentage popularity.
 
-5. The 'imdb.title.basics.csv.gz' and 'imdb.title.ratings.csv.gz' datasets were joined together so as to help in in findig the highest and lowest rated genres.
+5. The 'imdb.title.basics.csv.gz' and 'imdb.title.ratings.csv.gz' datasets were joined together so as to help in in finding the highest and lowest rated genres.
 
 These datasets will help us answer the specific objectives.
 
@@ -73,8 +73,8 @@ After analyzing the data obtained from various sources such as the TMDB dataset,
 
 # RECOMMENDATIONS
 When coming up with the new Microsoft movie studios I would recommend that:
-1. They should strive and work closely or partner with the highest grossing companies in the industry as they could borrow on some of their planning and execution of projets for better return on business.
+1. They should strive and work closely or partner with the highest grossing companies in the industry as they could borrow on some of their planning and execution of projects for better return on business.
 2. The average run time of a movie being produced should be averagely 100 minutes to 120 minutes.
-3. The new studio should invest heavily on their production budget of a movieand with the right resources, this will help in coming up with better movies hence having high prospects on its returns to the business.
-4. The new studio shou;d focus more in producing movies with their original language being English.
+3. The new studio should invest heavily on their production budget of a movie and with the right resources, this will help in coming up with better movies hence having high prospects on its returns to the business.
+4. The new studio should focus more in producing movies with their original language being English.
 5. The new studio should produce genres that attract good ratings such as Science Fiction & Fantasy, Action & Adventure, Kids & family, Comedy, Documentaries as it will lead to more viewership which translates to more returns on investment.
